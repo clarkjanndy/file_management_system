@@ -15,7 +15,7 @@
 
 ### Run the django app
 ! python manage.py runserver <br>
-<i>Visit 127.0.0.1/api/v1/docs for the API documentation</i>
+<i>Visit /api/v1/docs for the API documentation</i>
 
 
 
